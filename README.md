@@ -6,6 +6,7 @@ stretching, changing colors, changing fonts, adding or removing any part of the 
 cobranding with another company or the addition of extra effects are forbidden.
 
 ## Colors
+![Palette](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/colorpalette.png)
 ### Indirecta Blue 0x124CE6
 This color is mostly used in digital assets, such as a social media platform logo, or a banner.
 ![Indirecta Blue](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectablue.png)
@@ -28,7 +29,32 @@ Both of the logos are used to represent the Indirecta company and are saved in 3
 ### Medium 500  
 ![Medium500](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectalogomedium500.png)
 
+### Ascii
+To be used in screens with Ubuntu Monospace or the Code font.
+```
+© Indirecta Technologies. All rights reserved
+
+  `/shdmmmmmmmmmd-`ymmmddyo:`       //                sm- /h/                        --             
+`yNMMMMMMMMMMMMm-.dMMMMMMMMMN+     `MN  `-:::.`   .-:-hM- -o-  .-::.  .::-.   `.:::` MN--. `-::-.   
+yMMMMMMMMMMMMMd.:NMMMMMMMMMMMM+    `MN  yMs+oNh  oNy++mM- +Mo -Mm++:`hmo+yN+ .dmo++- MNoo/ `o+odN:  
+yMMMMMMMMMMMMy`+NMMMMMMMMMMMMM+    `MN  yM:  dM. MN   yM- +Mo -Mh   /Mmss    sM+     MN    +h ohMo  
+`yNMMMMMMMMMo`sMMMMMMMMMMMMMNo     `MN  yM:  dM. oNy//dM- +Mo -Mh   `dNs++o. -mm+//- dM+/+ mN+/sMo  
+  `/shddddd/ odddddddddddho:`       ::  .:`  -:   `:///-` .:. `:-     .://:`  `-///. `-//: `-///:. 
+  ```
+
 ## Rules
 ### Rounded corners
-Indirecta doesn't like sharp corners. Rounded corners are preferred over sharp ones.
+Indirecta doesn't like sharp corners. Rounded corners are preferred over sharp ones.  
 ![RoundedCorners](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/roundedcorners.png)
+### Keep the contrast
+Indirecta doesn't like putting Light on White, or Dark on Black, instead, color the upper layer wisely keeping it visible from short and long distances.
+### Style
+Indirecta's style is modern and unique. Consider the old "Protect" style, dark color with blue, now think about the Pointcove Style, and the modern Cascade Development.
+Indirecta takes a modern approach at representing itself wherever possible.
+### Spacing
+Keep the logo spaced and distinguishable. The logo should contain letters when enough space is available for it to become seen from far enough or while near another logo.
+The logo should be used in it's Pill form without text only when there is little to no space available, and the logo is only going to be seen from close enough.  
+![Xinu](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/xinubrandingexample.png)
+![Xinu](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/xinubrandingexample2.png)
+![Xinu](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/xinubrandingexample3.png)  
+The overall logo should either be centered in the middle or middle-right of the object, or kept on the top or bottom when co-exising with another logo or detail.
