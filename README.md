@@ -7,3 +7,4 @@ cobranding with another company or the addition of extra effects are forbidden.
 
 ## Typeface
 Indirecta uses [Ubuntu](https://design.ubuntu.com/font/) as it's Main Typeface. 
+The Indirecta logo has two main variations: Regular 400 and Medium 500.
