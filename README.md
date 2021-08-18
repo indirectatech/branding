@@ -27,3 +27,8 @@ Both of the logos are used to represent the Indirecta company and are saved in 3
 
 ### Medium 500  
 ![Medium500](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectalogomedium500.png)
+
+## Rules
+### Rounded corners
+Indirecta doesn't like sharp corners. Rounded corners are preferred over sharp ones.
+![RoundedCorners](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/roundedcorners.png)
