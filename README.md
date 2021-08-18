@@ -8,7 +8,8 @@ cobranding with another company or the addition of extra effects are forbidden.
 ## Colors
 ### Indirecta Blue 0x124CE6
 This color is mostly used in digital assets, such as a social media platform logo, or a banner.
-### Indirecta White 0xFFFFFF / Indirecta Black 0x000000
+![Indirecta Blue](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectablue.png)
+### Indirecta Contrast 0xFFFFFF / 0x000000
 This color is mostly in contrast with the opposite (eg. white on black, white on blue, black on white)
 
 ## Logo
