@@ -11,6 +11,7 @@ This color is mostly used in digital assets, such as a social media platform log
 ![Indirecta Blue](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectablue.png)
 ### Indirecta Contrast 0xFFFFFF / 0x000000
 This color is mostly in contrast with the opposite (eg. white on black, white on blue, black on white)
+![Indirecta Contrast](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectacontrast.png)
 
 ## Logo
 Indirecta's Logo is derived from Cascade Development's logo and is a Pill shape with a split in the middle representing independence and decentralization.  
