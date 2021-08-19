@@ -8,7 +8,7 @@ cobranding with another company or the addition of extra effects are forbidden.
 ## Colors
 ![Palette](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/colorpalette.png)
 ### Indirecta Blue 0x124CE6
-This color is mostly used in digital assets, such as a social media platform logo, or a banner.
+This color is mostly used in digital assets, such as a social media platform logo, or a banner.  
 ![Indirecta Blue](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectablue.png)
 ### Indirecta Contrast 0xFFFFFF / 0x000000
 This color is mostly in contrast with the opposite (eg. white on black, white on blue, black on white)
