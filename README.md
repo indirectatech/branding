@@ -5,6 +5,24 @@ When using the logo, keep all of its proper elements intact and do not alter the
 stretching, changing colors, changing fonts, adding or removing any part of the logo, 
 cobranding with another company or the addition of extra effects are forbidden.
 
+
+### Brand Information
+
+Name: Indirecta
+Full Name: Indirecta Technologies
+Objective: Independence and decentralization in the RTECH (Roblox Tech) Community
+
+New/Supported Products: Xinu HSE (Firmware side of Xinu), Secure Suite, [Rufus], [OneCall]
+
+Roblox: https://www.roblox.com/groups/5717887/Indirecta
+Discord: https://discord.gg/WD5sYdsfSW
+
+« We make cool products, when it's very cool, we release it with a license, and that's how we make robux. »  Lxi099, CEO
+
+« Indirecta is a company that strives to deliver high quality  products.
+Our products range from fire alarms to everything: Intercoms, Stage Equipment, Merchandise, Security equipment and miscellaneous products.
+We listen to the community and gladly accept any feedback regarding assistance and host events on important occasions! » Old Description 
+
 ## Colors
 ![Palette](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/colorpalette.png)
 ### Indirecta Blue 0x124CE6
