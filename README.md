@@ -34,7 +34,7 @@ This color is mostly in contrast with the opposite (eg. white on black, white on
 
 ## Logo
 Indirecta's Logo is derived from Cascade Development's logo and is a Pill shape with a split in the middle representing independence and decentralization.  
-![Pill]([https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/indirectalogopill.png](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/logos/indirecta_logo_onlyPill.png))
+![Pill](https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/logos/indirecta_logo_onlyPill.png)
 
 ## Typeface
 Indirecta uses [Ubuntu](https://design.ubuntu.com/font/) as it's Main Typeface.
